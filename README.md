@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://github.com/evanandrian/evanandrian/main/logo_ea.png" 
+  <img src="https://raw.githubusercontent.com/evanandrian/evanandrian/main/logo_ea.png" 
    alt="evanandrian" />
 </p>
 
@@ -48,15 +48,13 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=evanandrian&show_icons=true&theme=tokyonight" />
-
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=evanandrian&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=evanandrian&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=evanandrian&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=evanandrian&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanandrian&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
@@ -64,10 +62,6 @@
 #### 🔥 POS
 Description singkat project.  
 👉 Repo: https://github.com/evanandrian/ea_pos
-
-<!-- #### ⚡ Project 2 — (Ganti Nama)
-Description singkat project.  
-👉 Repo: https://github.com/evanandrian/(repo) -->
 
 ---
 
@@ -87,4 +81,4 @@ Description singkat project.
 ---
 
 ### 🧩 Quote
-> _"Code is like humor. When you have to explain it, it’s bad."_  
+> _"Code is like humor. When you have to explain it, it’s bad."_
