@@ -1,6 +1,7 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evanandrian/evanandrian/main/logo_ea.png" 
+  <img src="https://raw.githubusercontent.com/evanandrian/evandrian
+/main/logo_ea.png" 
    alt="evanandrian" />
 </p>
 
